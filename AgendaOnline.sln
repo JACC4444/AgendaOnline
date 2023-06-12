@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.6.33723.286
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaOnline", "AgendaOnline\AgendaOnline.csproj", "{D8816325-0F55-4B20-9272-84E91629FD1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumOnline", "AgendaOnline\AlbumOnline.csproj", "{D8816325-0F55-4B20-9272-84E91629FD1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
